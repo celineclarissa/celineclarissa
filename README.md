@@ -1,7 +1,7 @@
 # Introduction
 - 👋 Hi, welcome to my journey on exploring the world of Data Science! 
 - 🌱 I'm currently a first year student at The Chinese University of Hong Kong, Shenzhen under School of Data Science.
-- 📫 Feel free to reach out to me via [email](celineclarr@gmail.com) or [LinkedIn](https://www.linkedin.com/in/celineclarissa/).
+- 📫 Feel free to reach out to me via [email](mail:celineclarr@gmail.com) or [LinkedIn](https://www.linkedin.com/in/celineclarissa/).
 - 🔍 Check out my Hugging Face page [here](https://huggingface.co/celineclarissa).
 
 # Highlighted Projects
