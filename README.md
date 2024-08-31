@@ -1,6 +1,22 @@
+# Introduction
 - 👋 Hi, welcome to my journey on exploring the world of Data Science! 
 - 🌱 I'm currently a first year student at The Chinese University of Hong Kong, Shenzhen under School of Data Science.
-- 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/celineclarissa/).
+- 📫 Feel free to reach out to me via [email](celineclarr@gmail.com) or [LinkedIn](https://www.linkedin.com/in/celineclarissa/).
+- 🔍 Check out my Hugging Face page [here](https://huggingface.co/celineclarissa).
+
+# Highlighted Projects
+These are some projects that I have worked on.
+- [Skin-Scout 🧴](https://github.com/juanto26/SkinScout)
+  
+  Analysis on data regarding skincare products sold at Sephora, creation of a review classifier model with NLP technique, and a recommender system with cosine similarity.
+  
+- [Traffic Data Analysis 🚗](https://github.com/celineclarissa/Traffic-Data-Analysis)
+  
+  Analysis on data regarding traffic in five fictional cities.
+  
+- [Household Income Prediction 📊](https://github.com/celineclarissa/Household-Income-Prediction)
+
+  Analysis on data regarding household income and creation of regression model to make predictions.
 
 <!---
 celineclarissa/celineclarissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
