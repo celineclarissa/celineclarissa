@@ -2,7 +2,6 @@
 - 👋 Hi, welcome to my journey on exploring the world of Data Science! 
 - 🌱 I'm currently a first year student studying Data Science and Big Data Technology.
 - 📫 Feel free to reach out to me via [email](mailto:celineclarr@gmail.com) or [LinkedIn](https://www.linkedin.com/in/celineclarissa/).
-- 🔍 Check out my Hugging Face page [here](https://huggingface.co/celineclarissa).
 
 # Highlighted Projects
 These are some projects that I have worked on.
