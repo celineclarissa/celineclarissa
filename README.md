@@ -7,7 +7,7 @@
 These are some projects that I have worked on.
 - [Skin-Scout 🧴](https://github.com/juanto26/SkinScout)
   
-  Analysis on data regarding skincare products sold at Sephora, creation of a review classifier model with NLP technique, and a recommender system with cosine similarity.
+  Analysis on data regarding skincare products sold at Sephora, created of a review classifier model with NLP technique, and a recommender system with cosine similarity.
   
 - [Traffic Data Analysis 🚗](https://github.com/celineclarissa/Traffic-Data-Analysis)
   
