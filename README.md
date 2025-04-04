@@ -20,6 +20,7 @@ These are some projects that I have worked on.
 
   - Analyzed factors correlating to household income, gaining valuable insights for data-driven decision-making.
   - Developed a predictive model for household income using Machine Learning techniques and cross-validation. Utilized the SVR algorithm, achieving an MAE score of 4,448.
+  - Deployed the model and showcased the results of exploratory data analysis (EDA) on Hugging Face.
 
 <!---
 celineclarissa/celineclarissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
