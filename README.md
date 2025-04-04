@@ -5,17 +5,21 @@
 
 # Highlighted Projects
 These are some projects that I have worked on.
-- [Skin-Scout 🧴](https://github.com/juanto26/SkinScout)
+• [Skin-Scout 🧴](https://github.com/juanto26/SkinScout)
   
-  Analysis on data regarding skincare products sold at Sephora, created of a review classifier model with NLP technique, and a recommender system with cosine similarity.
+  - Implemented Natural Language Processing (NLP) techniques to create a sentiment analysis tool for product reviews, achieving a 94% accuracy rate.
+  - Developed a skincare product recommendation system utilizing cosine similarity, enhancing personalized user experiences.
+  - Deployed the skincare product recommendation system, sentiment analysis model, and data analysis results on Hugging Face, ensuring seamless accessibility and integration for real-time use.
   
-- [Traffic Data Analysis 🚗](https://github.com/celineclarissa/Traffic-Data-Analysis)
+• [Traffic Data Analysis 🚗](https://github.com/celineclarissa/Traffic-Data-Analysis)
   
-  Analysis on data regarding traffic in five fictional cities.
+  - Analyzed trends and factors influencing fuel consumption based on traffic data from five fictional cities, providing actionable insights for a fuel company.
+  - Designed and created a comprehensive data visualization on a Tableau dashboard to effectively communicate findings.
   
-- [Household Income Prediction 📊](https://github.com/celineclarissa/Household-Income-Prediction)
+• [Household Income Prediction 📊](https://github.com/celineclarissa/Household-Income-Prediction)
 
-  Analysis on data regarding household income and creation of regression model to make predictions.
+  - Analyzed factors correlating to household income, gaining valuable insights for data-driven decision-making.
+  - Developed a predictive model for household income using Machine Learning techniques and cross-validation. Utilized the SVR algorithm, achieving an MAE score of 4,448.
 
 <!---
 celineclarissa/celineclarissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
