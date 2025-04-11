@@ -1,10 +1,11 @@
 # Introduction
 
-Hi, I'm **Celine**. Welcome to my Data Science and Analytics portfolio! 
+👋🏼 Hi, I'm **Celine**. Welcome to my Data Science and Analytics portfolio! 
 
 🌱 I'm currently a first year student majoring in Data Science and Big Data Technology at The Chinese University of Hong Kong, Shenzhen.
 
 📫 Let's connect!
+
 [📧 Email](mailto:celineclarr@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/celineclarissa/).
 
 # Highlighted Projects
