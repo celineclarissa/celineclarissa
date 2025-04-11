@@ -4,9 +4,7 @@
 
 🌱 I'm currently a first year student majoring in Data Science and Big Data Technology at The Chinese University of Hong Kong, Shenzhen.
 
-📫 Let's connect!
-
-[📧 Email](mailto:celineclarr@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/celineclarissa/).
+📫 Let's connect on [email](mailto:celineclarr@gmail.com) or [LinkedIn](https://www.linkedin.com/in/celineclarissa/).
 
 # Highlighted Projects
 These are some projects that I have worked on.
