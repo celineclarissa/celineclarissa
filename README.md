@@ -1,6 +1,6 @@
 # Introduction
 - 👋 Hi, I'm Celine. Welcome to my Data Science and Analytics portfolio! 
-- 🌱 I'm currently a first year student studying Data Science and Big Data Technology.
+- 🌱 I'm currently a first year student studying Data Science and Big Data Technology at The Chinese University of Hong Kong, Shenzhen.
 - 📫 Feel free to reach out to me via [email](mailto:celineclarr@gmail.com) or [LinkedIn](https://www.linkedin.com/in/celineclarissa/).
 
 # Highlighted Projects
