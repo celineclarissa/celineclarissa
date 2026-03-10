@@ -4,7 +4,7 @@
 
 📚 I'm currently a sophomore majoring in Data Science and Big Data Technology at The Chinese University of Hong Kong, Shenzhen.
 
-📲 Feel free to contact me through [email](mailto:celineclarr@gmail.com) or [LinkedIn](https://www.linkedin.com/in/celineclarissa/)!
+📲 Feel free to contact me through [email](mailto:celineclarissachandra@gmail.com) or [LinkedIn](https://www.linkedin.com/in/celineclarissa/)!
 
 # Highlighted Projects
 These are some projects that I have worked on.
