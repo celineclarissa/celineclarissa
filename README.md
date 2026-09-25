@@ -2,7 +2,7 @@
 
 🌜 Hi, I'm **Celine**. Welcome to my Data Science and Analytics portfolio. 
 
-📚 I'm currently a sophomore majoring in Data Science and Big Data Technology at The Chinese University of Hong Kong, Shenzhen.
+📚 I'm currently a junior majoring in Financial Engineering (Fintech) at The Chinese University of Hong Kong, Shenzhen.
 
 📲 Feel free to contact me through [email](mailto:celineclarissachandra@gmail.com) or [LinkedIn](https://www.linkedin.com/in/celineclarissa/)!
 
