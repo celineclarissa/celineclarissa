@@ -1,32 +1,5 @@
 # Introduction
 
-🌜 Hi, I'm **Celine**. Welcome to my Data Science and Analytics portfolio. 
-
-📚 I'm currently a junior majoring in Financial Engineering (Fintech) at The Chinese University of Hong Kong, Shenzhen.
+🌜 Hi, I'm **Celine**, a junior majoring in Financial Engineering (Fintech) at The Chinese University of Hong Kong, Shenzhen.
 
 📲 Feel free to contact me through [email](mailto:celineclarissachandra@gmail.com) or [LinkedIn](https://www.linkedin.com/in/celineclarissa/)!
-
-# Highlighted Projects
-These are some projects that I have worked on.
-- [Apple Market Segmentation 📱](https://github.com/celineclarissa/Apple-Consumer-Segmentation)
-  
-  - Segmented over 50 potential customer data with K-Means clustering to distinguish two distinct groups with different brand perception and purchasing behavior towards Apple products.
-  - Translated statistical analyses and findings  to reveal decision drivers and pricing sensitivity of each group.
-  - Presented implications relevant to the company’s decision-making processes for the international student market segment in China.
-
-- [Skin-Scout 🧴](https://github.com/juanto26/SkinScout)
-  
-  - Implemented Natural Language Processing (NLP) techniques to create a sentiment analysis tool for product reviews, achieving a 94% accuracy rate.
-  - Developed a skincare product recommendation system utilizing cosine similarity, enhancing personalized user experiences.
-  - Deployed the skincare product recommendation system, sentiment analysis model, and data analysis results on Hugging Face, ensuring seamless accessibility and integration for real-time use.
-
-- [Household Income Prediction 📊](https://github.com/celineclarissa/Household-Income-Prediction)
-
-  - Analyzed factors correlating to household income, gaining valuable insights for data-driven decision-making.
-  - Developed a predictive model for household income using Machine Learning techniques and cross-validation. Utilized the SVR algorithm, achieving an MAE score of 4,448.
-  - Deployed the model and showcased the results of exploratory data analysis (EDA) on Hugging Face.
-
-<!---
-celineclarissa/celineclarissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
